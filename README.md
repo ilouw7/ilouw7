@@ -25,4 +25,4 @@ As an innovator and skilled modeller, I am committed to delivering data-driven a
 ### 🖥️ Cloud Platforms
 <img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" />
 <img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />
-#
+
